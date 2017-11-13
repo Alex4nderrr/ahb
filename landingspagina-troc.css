@@ -17,6 +17,10 @@
 .troc-cta > img {width: 100%; padding: 20px 75px 0px 75px;}
 .troc-cta > p {padding: 10px; color: #fff; font-weight: bold;}
 
+.troc-topslider {width: 100%;}
+.troc-topslider > ul {list-style: none outside none;padding-left: 0;margin-bottom:0;}
+.troc-topslider > li {display: block;float: left;margin-right: 6px;cursor:pointer;}
+.troc-topslider > li > img {display: block;height: auto;max-width: 100%;}
 .troc-topslider-prev {position: absolute; left: -70px; background: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; transform: rotate(180deg); cursor: pointer;}
 .troc-topslider-next {position: absolute; right: -70px; background: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; cursor: pointer;}
 .troc-topslider-title {font-size: 3vh; font-weight: bold; margin-bottom: 20px;}
