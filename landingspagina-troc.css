@@ -12,6 +12,16 @@
 
 .troc-highlights{padding: 10px; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif; font-size: 20px;}
 
+.troc-cta{background: #0e69a8; transition: 0.5s;}
+.troc-cta:hover{background: #e69800;}
+.troc-cta > img {width: 100%; background: #e69800; padding: 20px 75px 0px 75px;}
+.trox-p {padding: 10px; background: #e69800; color: #fff; font-weight: bold;}
+
+.troc-topslider-prev {position: absolute; left: -70px; background: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; transform: rotate(180deg); cursor: pointer;}
+.troc-topslider-next {position: absolute; right: -70px; background: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; cursor: pointer;}
+.troc-topslider-title {font-size: 3vh; font-weight: bold; margin-bottom: 20px;}
+.troc-topslider-text {text-align: justify;}
+
 body {overflow: scroll !important;}
 body::-webkit-scrollbar-track {background-color: #202020 !important;}
 body::-webkit-scrollbar {width: 10px !important; background-color: #ffffff !important;}
