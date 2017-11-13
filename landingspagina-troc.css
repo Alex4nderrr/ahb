@@ -26,6 +26,14 @@
 .troc-topslider-title {font-size: 3vh; font-weight: bold; margin-bottom: 20px;}
 .troc-topslider-text {text-align: justify;}
 
+.troc-bottomslider {width: 100%;}
+.troc-bottomslider > ul {list-style: none outside none;padding-left: 0;margin-bottom:0;}
+.troc-bottomslider > li {display: block;float: left;margin-right: 6px;cursor:pointer;}
+.troc-bottomslider > li > img {display: block;height: auto;max-width: 100%;}
+.troc-bottomslider-prev {position: absolute; left: -70px; background: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; transform: rotate(180deg); cursor: pointer;}
+.troc-bottomslider-next {position: absolute; right: -70px; background: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; cursor: pointer;}
+.troc-bottomslider-text {padding: 25px; font-size: 2vh; text-align: justify; font-weight: normal;}
+
 body {overflow: scroll !important;}
 body::-webkit-scrollbar-track {background-color: #202020 !important;}
 body::-webkit-scrollbar {width: 10px !important; background-color: #ffffff !important;}
