@@ -34,6 +34,8 @@
 .troc-bottomslider-next {position: absolute; right: -70px; background: #0e69a8; color: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; cursor: pointer;}
 .troc-bottomslider-text {padding: 25px; font-size: 2vh; text-align: justify; font-weight: normal;}
 
+.troc-footer-gradient {background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgba(197, 197, 197, 0.66) 50%,rgba(85, 103, 62, 0) 100%); position: absolute; bottom: -50px; height: 150px; width: 100%; z-index: 100;}
+
 body {overflow: scroll !important;}
 body::-webkit-scrollbar-track {background-color: #202020 !important;}
 body::-webkit-scrollbar {width: 10px !important; background-color: #ffffff !important;}
