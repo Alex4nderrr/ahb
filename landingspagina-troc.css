@@ -14,8 +14,8 @@
 
 .troc-cta{background: #0e69a8; transition: 0.5s;}
 .troc-cta:hover{background: #e69800;}
-.troc-cta > img {width: 100%; background: #e69800; padding: 20px 75px 0px 75px;}
-.trox-p {padding: 10px; background: #e69800; color: #fff; font-weight: bold;}
+.troc-cta > img {width: 100%; padding: 20px 75px 0px 75px;}
+.trox-cta > p {padding: 10px; color: #fff; font-weight: bold;}
 
 .troc-topslider-prev {position: absolute; left: -70px; background: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; transform: rotate(180deg); cursor: pointer;}
 .troc-topslider-next {position: absolute; right: -70px; background: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; cursor: pointer;}
