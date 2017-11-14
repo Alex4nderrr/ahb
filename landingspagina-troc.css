@@ -51,6 +51,8 @@ body::-webkit-scrollbar-track {background-color: #202020 !important;}
 body::-webkit-scrollbar {width: 10px !important; background-color: #ffffff !important;}
 body::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
 
+.lSPager {display: none !important;}
+
 @media only screen and (max-width: 500px) {
   .troc-background {background-position-x: 38% !important;}
   .troc-background-button-1 {width: 100%;}
