@@ -3,8 +3,10 @@
 .troc-background{width: 100%;height: 400px;position: absolute;padding: 125px 15%;background-position-x: 100% !important;}
 .troc-background > h1 {color: #fff;font-size: 5vh;font-weight: bold;font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;margin: 0; text-shadow: 0 0 0.5rem #000;}
 .troc-background > h2 {color: #fff;font-size: 3vh;font-weight: bold;margin: 0;font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; text-shadow: 0 0 0.5rem #000;}
-.troc-background-button-1 {background: #0e69a8; color: #fff; font-size: 20px; border: 0; padding: 15px 30px; margin-top: 15px; font-weight: bold; box-shadow: 0 0 10px 0px black;}
-.troc-background-button-2 {background: #fff; color: #0e69a8; font-size: 20px; border: 0; padding: 15px 30px; font-weight: bold; margin-top: 15px; margin-left: 15px; box-shadow: 0 0 10px 0px black;}
+.troc-background-button-1 {background: #0e69a8; color: #fff; font-size: 20px; border: 0; padding: 15px 30px; margin-top: 15px; font-weight: bold; box-shadow: 0 0 10px 0px black; transition: 0.5s;}
+.troc-background-button-2 {background: #fff; color: #000; font-size: 20px; border: 0; padding: 15px 30px; font-weight: bold; margin-top: 15px; margin-left: 15px; box-shadow: 0 0 10px 0px black; transition: 0.5s;}
+.troc-background-button-1:hover {background: #ffd00e; color: 000;}
+.troc-background-button-2:hover {background: #ffd00e; color: 000;}
 
 .troc-left{text-align: left !important;}
 .troc-center{text-align: center !important;}
@@ -15,10 +17,15 @@
 .troc-highlights{padding: 10px; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif; font-size: 20px;}
 
 .troc-cta{background: #0e69a8; transition: 0.5s; cursor: pointer;}
-.troc-cta:hover{background: #e69800;}
+.troc-cta:hover{background: #ffd00e;}
 .troc-cta > img {width: 100%; padding: 20px 75px 0px 75px;}
 .troc-cta > p {padding: 10px; color: #fff; font-size: 16px; text-align: center;}
 .troc-cta-block {padding: 30px; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif;}
+
+.troc-plan-proefrit {background: #0e69a8; color: #ffffff; font-size: 20px; border: 0; padding: 15px 30px; margin-top: 15px; font-weight: bold; transition: 0.5s;}
+.troc-plan-proefrit:hover {background: #ffd00e; color: #000000;}
+.troc-send-form {background: #e69800; color: #ffffff; font-size: 20px; border: 0; padding: 15px 30px; margin-top: 15px; font-weight: bold; transition: 0.5s;}
+.troc-send-form:hover {background: #ffd00e; color: #000000;}
 
 .troc-topslider {width: 100%;}
 .troc-topslider > ul {list-style: none outside none;padding-left: 0;margin-bottom:0;}
