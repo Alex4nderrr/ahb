@@ -52,6 +52,7 @@ body::-webkit-scrollbar {width: 10px !important; background-color: #ffffff !impo
 body::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
 
 .lSPager {display: none !important;}
+a {color: inherit !important; text-decoration: none !important;}
 
 @media only screen and (max-width: 500px) {
   .troc-background {background-position-x: 38% !important;}
