@@ -50,3 +50,12 @@ body {overflow: scroll !important;}
 body::-webkit-scrollbar-track {background-color: #202020 !important;}
 body::-webkit-scrollbar {width: 10px !important; background-color: #ffffff !important;}
 body::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
+
+@media only screen and (max-width: 500px) {
+  .troc-background {background-position-x: 38% !important;}
+  .troc-background-button-1 {width: 100%;}
+  .troc-background-button-2 {width: 100%; margin-left: 0;}
+  .troc-cta > img {padding: 50px;}
+  .troc-cta > p {font-size: 10px; margin-bottom: 30px;}
+  .troc-bottomslider {max-height: 300px;}
+}
