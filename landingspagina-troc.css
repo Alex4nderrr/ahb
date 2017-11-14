@@ -14,7 +14,7 @@
 
 .troc-block {width: 100%; margin-top: 50px; margin-bottom: 50px; background: #fff; padding: 0; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif; position: relative;}
 
-.troc-highlights{padding: 10px; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif; font-size: 20px;}
+.troc-highlights{padding: 15px 0px; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif; font-size: 20px; line-height: 25px;}
 
 .troc-cta{background: #0e69a8; transition: 0.5s; cursor: pointer;}
 .troc-cta:hover{background: #ffd00e;}
