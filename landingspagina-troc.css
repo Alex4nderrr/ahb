@@ -5,8 +5,8 @@
 .troc-background > h2 {color: #fff;font-size: 3vh;font-weight: bold;margin: 0;font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; text-shadow: 0 0 0.5rem #000;}
 .troc-background-button-1 {background: #0e69a8; color: #fff; font-size: 20px; border: 0; padding: 15px 30px; margin-top: 15px; font-weight: bold; box-shadow: 0 0 10px 0px black; transition: 0.5s;}
 .troc-background-button-2 {background: #fff; color: #000; font-size: 20px; border: 0; padding: 15px 30px; font-weight: bold; margin-top: 15px; margin-left: 15px; box-shadow: 0 0 10px 0px black; transition: 0.5s;}
-.troc-background-button-1:hover {background: #ffd00e; color: 000;}
-.troc-background-button-2:hover {background: #ffd00e; color: 000;}
+.troc-background-button-1:hover {background: #ffd00e; color: #000;}
+.troc-background-button-2:hover {background: #ffd00e; color: #000;}
 
 .troc-left{text-align: left !important;}
 .troc-center{text-align: center !important;}
