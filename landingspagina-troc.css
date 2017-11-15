@@ -18,7 +18,7 @@
 
 .troc-cta{background: #0e69a8; transition: 0.5s; cursor: pointer;}
 .troc-cta:hover{background: #ffd00e;}
-.troc-cta > img {width: 100%; padding: 20px 75px 0px 75px;}
+.troc-cta > a > img {width: 100%; padding: 20px 75px 0px 75px;}
 .troc-cta > p {padding: 10px; color: #fff; font-size: 16px; text-align: center;}
 .troc-cta-block {padding: 30px; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif;}
 
