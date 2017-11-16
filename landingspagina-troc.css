@@ -40,8 +40,8 @@
 .troc-bottomslider > ul {list-style: none outside none;padding-left: 0;margin-bottom:0;}
 .troc-bottomslider > li {display: block;float: left;margin-right: 6px;cursor:pointer;}
 .troc-bottomslider > li > img {display: block;height: auto;max-width: 100%;}
-.troc-bottomslider-prev {position: absolute; left: -70px; background: #0e69a8; color: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; transform: rotate(180deg); cursor: pointer; transition: 0.5s;}
-.troc-bottomslider-next {position: absolute; right: -70px; background: #0e69a8; color: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; cursor: pointer; transition: 0.5s;}
+.troc-bottomslider-prev {position: absolute; left: -70px; background: #0e69a8; color: #fff; top: 35%; padding: 10px 15px; border-radius: 50%; font-size: 15px; transform: rotate(180deg); cursor: pointer; transition: 0.5s;}
+.troc-bottomslider-next {position: absolute; right: -70px; background: #0e69a8; color: #fff; top: 35%; padding: 10px 15px; border-radius: 50%; font-size: 15px; cursor: pointer; transition: 0.5s;}
 .troc-bottomslider-text {padding: 25px; font-size: 2vh; text-align: left; font-weight: normal;}
 
 .troc-footer-gradient {background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgba(197, 197, 197, 0.66) 50%,rgba(85, 103, 62, 0) 100%); position: absolute; bottom: -50px; height: 150px; width: 100%; z-index: 100;}
