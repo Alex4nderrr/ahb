@@ -58,7 +58,7 @@ a {color: inherit !important; text-decoration: none !important;}
   .troc-background {background-position-x: 38% !important;}
   .troc-background-button-1 {width: 100%;}
   .troc-background-button-2 {width: 100%; margin-left: 0;}
-  .troc-cta > img {padding: 25px 50px;}
+  .troc-cta > a > img {padding: 25px 50px;}
   .troc-cta > p {font-size: 11px; margin-bottom: 30px;}
   .troc-topslider-prev {background: #ffd00e;}
   .troc-topslider-next {background: #ffd00e;}
