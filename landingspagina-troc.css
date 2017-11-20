@@ -59,6 +59,7 @@ body::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
 a {color: inherit !important; text-decoration: none !important;}
 
 @media only screen and (max-width: 500px) {
+  .troc-content {overflow-x: hidden !important;}
   .troc-background {background-position-x: 38% !important;}
   .troc-background-button-1 {width: 100%;}
   .troc-background-button-2 {width: 100%; margin-left: 0;}
