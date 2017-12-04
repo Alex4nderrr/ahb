@@ -23,7 +23,7 @@
 .calltoaction{background: #7ad0b3; width: 100%; border: solid 2px #fff; padding: 10px; font-weight: bold; color: #fff; text-align: center;}
 .calltoaction-l{padding: 15px; border-right: solid 3px #fff;}
 .calltoaction-l > p {margin: 0;}
-.calltoaction-r{padding: 15px; border-right: solid 3px #fff;}
+.calltoaction-r{padding: 15px;}
 .calltoaction-r > p {margin: 0;}
 .welcome-header-black{display:inline-block;color:#000;font-size:50px;text-shadow:0 0 10px #fff;display:none}
 .welcome-header-white{display:inline-block;color:#fff;font-size:50px;text-shadow:0 0 10px #000;display:none}
