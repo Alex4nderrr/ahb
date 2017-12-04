@@ -24,7 +24,7 @@
 .calltoaction:hover{background: #6e94a2;}
 .calltoaction-l{padding: 0px; border-right: solid 3px #fff;}
 .calltoaction-l > p {margin: 0;}
-.calltoaction-l > img {max-width: 50px;}
+.calltoaction-l > img {max-width: 50px !important;}
 .calltoaction-r{padding: 15px;}
 .calltoaction-r > p {margin: 0;}
 .welcome-header-black{display:inline-block;color:#000;font-size:50px;text-shadow:0 0 10px #fff;display:none}
