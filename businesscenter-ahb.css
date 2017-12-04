@@ -27,7 +27,7 @@
 .calltoaction-l > p {margin: 0;}
 .calltoaction-l > img {max-width: 50px !important;}
 .calltoaction-r{padding: 15px;}
-.calltoaction-r > p {margin: 0; font-size: 15px;}
+.calltoaction-r > p {margin: 0; font-size: 15px !important;}
 .welcome-header-black{display:inline-block;color:#000;font-size:50px;text-shadow:0 0 10px #fff;display:none}
 .welcome-header-white{display:inline-block;color:#fff;font-size:50px;text-shadow:0 0 10px #000;display:none}
 .welcome-header-text{color:#fff;padding:20px;text-shadow:3px 3px 10px #000;text-align:justify}
