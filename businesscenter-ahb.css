@@ -45,7 +45,7 @@
 .leasevormen-block-header:hover{background:#67bda0;color:#fff}
 .leasevormen-block-text{padding: 20px;text-align: justify;transition:1s;background:url(https://www.autohoogenboom.nl/content/files/Images/Auto_Hoogenboom/Content_images/BusinessCenter/ruit_wit.png) #fff}
 .leasevormen-block-text:hover{background:#6fc5a7;color:#000;background:url(https://www.autohoogenboom.nl/content/files/Images/Auto_Hoogenboom/Content_images/BusinessCenter/ruit_wit.png) #fff}
-.team-block{margin:20px 0;margin-bottom:70px;#fff;transition:1s}
+.team-block{margin:20px 0;margin-bottom:70px;background:#fff;transition:1s}
 .team-block:hover{#c2c2c2;}
 .team-foto{width:50%;margin-top:-50px;transform:rotate(3deg);solid 3px #fff;}
 .team-row{padding-top:10px}
