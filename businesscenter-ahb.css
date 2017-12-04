@@ -1,0 +1,67 @@
+.BlackPicure {position: fixed; z-index: 9900; top: 0; width: 100%; height: 100%; left: 0; background-color: #fff;}
+.background {width: 100%; position: fixed; z-index: 30; background-color: #f9f9f9; height: 100%; top: 0; left: 0;}
+.diagonal {border-bottom: 1500px solid #5b7aae; border-left: 500px solid rgba(0, 0, 0, 0); display: block; height: 100%; width: 50%; position: fixed; right: 0; bottom: 0;}
+.content {z-index: 9960; background: #ffffff; position: fixed; height: 100%; padding-top: 80px; width: 100%; overflow-y: overlay;}
+.content::-webkit-scrollbar {width: 10px;}
+.content::-webkit-scrollbar-track {-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);}
+.content::-webkit-scrollbar-thumb {background-color: #004c7d; outline: 1px solid #004c7d;}
+.content::-webkit-overflow-scrolling: touch;
+
+.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9{margin:0;padding:0}
+.header-item{float:right;border-right:1px solid #E9E9E9;font-weight:700;color:#777;padding:0 20px}
+.header-item-last{float:right;font-weight:700;color:#777;padding:0 20px;border:solid}
+.section-header{padding:20px;width:100%;border-bottom:solid 1px #d3ffff;height:70px; display: flex; font-family: "DIN Next W01 Medium",Arial,Helvetica,sans-serif;}
+.section-welcome{background: url(https://www.autohoogenboom.nl/content/files/Images/Auto_Hoogenboom/Content_images/BusinessCenter/Hero_1.jpg) #00ab71; padding: 30px; transition: 1s; background-size: cover; height: 400px; background-position: 50%; text-align: left; display: flex; line-height: 50px;}
+.section-quotes{background:#fff;padding:50px 30px; display: flex; font-family: "DIN Next W01 Regular",Arial,Helvetica,sans-serif;}
+.section-voordelen{background:url(https://www.autohoogenboom.nl/content/files/Images/Auto_Hoogenboom/Content_images/BusinessCenter/ruit_blauw.png) #0D5A76;padding:30px;transition:1s; display: flex; font-family: "DIN Next W01 Regular",Arial,Helvetica,sans-serif;}
+.section-team{background:#fff;padding:30px; display: flex; font-family: "DIN Next W01 Regular",Arial,Helvetica,sans-serif;}
+.section-leasevormen{background:url(https://www.autohoogenboom.nl/content/files/Images/Auto_Hoogenboom/Content_images/BusinessCenter/ruit_groen.png) #00ab71;padding:30px;transition:1s; display: flex; font-family: "DIN Next W01 Regular",Arial,Helvetica,sans-serif;}
+.section-locatie{background:url(https://www.autohoogenboom.nl/content/files/Images/Auto_Hoogenboom/Content_images/BusinessCenter/kaart_1.png) 80% #fff;background-size:cover;padding:30px;height:500px;width:100%;position:relative; display: flex; font-family: "DIN Next W01 Regular",Arial,Helvetica,sans-serif;}
+.section-footer{padding:20px;width:100%;border-bottom:solid 1px #d3ffff;height:70px;text-align:center; display: flex; font-family: "DIN Next W01 Regular",Arial,Helvetica,sans-serif;}
+.section-title{font-weight: bold; font-size: 40px !important; width: 100%; text-align: left; margin-bottom: 20px;}
+.welcome-header-black{display:inline-block;color:#000;font-size:50px;text-shadow:0 0 10px #fff;display:none}
+.welcome-header-white{display:inline-block;color:#fff;font-size:50px;text-shadow:0 0 10px #000;display:none}
+.welcome-header-text{color:#fff;padding:20px;text-shadow:3px 3px 10px #000;text-align:justify}
+.quotes-text{display:none;font-size:30px;color:#6f6e72;font-style:italic;padding:10px;color:#fff}
+.quotes-description{text-align:justify;padding:20px 0}
+.voordelen-description{color:#fff;text-align:justify;margin-top:30px}
+.voordelen-row{margin-bottom:10px;color:#fff;font-size:18px}
+.voordelen-row-left{display:inline-block;width:10%;text-align: left;}
+.voordelen-row-right{display:inline-block;width:80%;text-align:left}
+.leasevormen-text{text-align:left;color:#fff}
+.leasevormen-block{background:#fff;margin:20px 0;position:relative; padding: 0;}
+.leasevormen-block-arrow{width:0;height:0;border-left:30px solid transparent;border-right:30px solid transparent;border-top:30px solid #e7e7e7;position:absolute;left:42.9%;box-shadow:0 -3px 21px -12px rgba(0,0,0,.8)}
+.leasevormen-info{text-align:left;background:#fff;padding:20px;width:98.3%;position:relative;margin-top:50px}
+.leasevormen-arrow{width:0;height:0;border-left:30px solid transparent;border-right:30px solid transparent;border-bottom:30px solid #fff;position:absolute;top:-25px;left:47.7%}
+.leasevormen-block-header{background:#d7d7d7;padding:10px;color:#fff;transition:1s;cursor:pointer}
+.leasevormen-block-header:hover{background:#67bda0;color:#fff}
+.leasevormen-block-text{padding: 20px;text-align: justify;transition:1s;background:url(https://www.autohoogenboom.nl/content/files/Images/Auto_Hoogenboom/Content_images/BusinessCenter/ruit_wit.png) #fff}
+.leasevormen-block-text:hover{background:#6fc5a7;color:#000;background:url(https://www.autohoogenboom.nl/content/files/Images/Auto_Hoogenboom/Content_images/BusinessCenter/ruit_wit.png) #fff}
+.team-block{margin:20px 0;margin-bottom:70px;background:url(https://www.autohoogenboom.nl/content/files/Images/Auto_Hoogenboom/Content_images/BusinessCenter/ruit_wit.png) 50% #f9f9f9;transition:1s}
+.team-block:hover{background:url(https://www.autohoogenboom.nl/content/files/Images/Auto_Hoogenboom/Content_images/BusinessCenter/ruit_blauw.png) 70% #6e94a2;color:#fff !important;}
+.team-foto{width:50%;margin-top:-50px;transform:rotate(3deg);solid 5px #fff;}
+.team-row{padding-top:10px}
+.team-row-name{padding-top:20px;}
+.team-row-function{padding: 10px;color: #6e94a2;background: #fff;font-weight: bold;font-family: 'DIN Next W01 Medium',Arial,Helvetica,sans-serif;font-size: 14px !important;}
+.team-row-phone{margin: 0;font-size: 14px !important;}
+.team-row-email{margin: 0;font-size: 14px !important;}
+.team-info{padding-bottom:10px}
+.team-info-left{display:inline-block;width:10%}
+.team-info-right{display:inline-block;width:80%}
+.locatie-title{font-size: 50px !important;color: #6fc5a7;text-align: center;background: rgba(255, 255, 255, 0.75);padding-top: 10px;margin-top: 80px;}
+.locatie-button{margin-top: -10px;background: #fff;font-size: 20px !important;padding-bottom: 5px;color: #6fc5a7;text-align: center;padding-top: 10px;}
+@media screen and (min-width: 600px) {
+  .leasevormen-block{margin:20px 20px 20px 0;width:calc(33.33% - 20px)}
+  .leasevormen-block-text{min-height:200px}
+  .team-block{min-height:300px;margin:20px 20px 20px 0;margin-bottom:70px;width:calc(33.33% - 20px)}
+}
+
+:after {display: none !important;}
+#page-footer {left: 0 !important; padding-left: 150px !important;}
+#page-header::after {content: none !important; display: none !important;}
+#chat-application {display: none !important;}
+@media (max-width: 500px){.content{width:100%;margin:0; opacity:1;}.diagonaal{border-bottom: 700px solid #0068aa; border-left: 200px solid rgba(0, 0, 0, 0);}}
+@media (max-width: 500px){.diagonal{border-bottom: 1000px solid #0068aa; border-left: 200px solid rgba(0, 0, 0, 0);}}
+@media (max-width: 500px){.HeadTekst{font-weight: bold; font-size: 25px !important; position: fixed; top: 110px; color: #ffffff; text-shadow: 0px 0px 10px #000000;}}
+@media (max-width: 500px){.logo{display: none}}
+@media (max-width: 500px){.logo-mobile{top: 15% !important; left: 14% !important; width: 80% !important;}}
