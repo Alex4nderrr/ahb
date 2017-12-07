@@ -20,6 +20,7 @@
 
 .B-inruilvoorstel-title{font-size: 20px; font-weight: bold;}
 .B-inruilvoorstel-kenteken{background: #dcdc00; border-color: #000; font-size: 28px; font-weight: bold; padding: 0px 10px; text-align: center;width: 100%; margin-bottom: 15px;}
+.B-inruilvoorstel-kenteken-l{position: absolute; padding: 10px 5px; background: #2d84c2; top: 2px; left: 17px; color: #fff;}
 .B-inruilvoorstel-input{width: 100%; padding: 10px; margin-bottom: 15px;}
 .B-inruilvoorstel-button{width: 100%; padding: 10px; background: #2d84c2; color: #fff; border: 0; margin-top: 15px; font-weight: bold; cursor: pointer;}
 .B-inruilvoorstel-button:hover{background: #2173ab;}
