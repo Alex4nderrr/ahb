@@ -18,7 +18,7 @@
 .B-ul{padding-left: 15px;}
 
 .B-inruilvoorstel-title{font-size: 20px; font-weight: bold;}
-.B-inruilvoorstel-kenteken{background: #dcdc00; border-color: #000; font-size: 28px; font-weight: bold; padding: 0px 10px; text-align: center;width: 100%; margin-bottom: 15px;}
+.B-inruilvoorstel-kenteken{background: #dcdc00; border-color: #000; font-size: 28px; font-weight: bold; padding: 0px 10px; text-align: center;width: 100%; margin-bottom: 15px; text-transform: uppercase;}
 .B-inruilvoorstel-kenteken-get{padding: 10px; text-align: center; border: dashed 1px #000; margin-bottom: 10px !important;}
 .B-inruilvoorstel-kenteken-l{position: absolute; padding: 11px 5px; background: #2d84c2; top: 2px; left: 17px; color: #fff;}
 .B-inruilvoorstel-input{width: 100%; padding: 10px; margin-bottom: 15px;}
