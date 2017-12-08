@@ -9,8 +9,9 @@
 .G-button{padding: 15px 50px 10px 50px; background: #fff; color: #000; font-weight: bold; display: inline-block; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; margin-top: 20px !important; cursor: pointer; font-size: 3vh; border: 0; transition: 0.5s;}
 .G-button:hover{background: #d4d4d4;}
 .G-content-title{font-weight: bold; display: inline-block; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; margin-top: 50px !important; font-size: 20px;margin-bottom: 25px !important;}
-.G-content-block{background: #fff; border-left: 15px solid #f1f1f1; border-right: 15px solid #f1f1f1; margin-bottom: 30px; padding: 25px;cursor: pointer;transition: 0.5s;}
+.G-content-block{background: #fff; border-left: 15px solid #f1f1f1; border-right: 15px solid #f1f1f1; margin-bottom: 30px; padding: 25px;cursor: pointer;transition: 0.5s; position: relative;}
 .G-content-block:hover{background: #fafafa; box-shadow: rgb(255, 255, 255) 0px 0px 1px 5px inset;}
+.G-content-block-gs{position: absolute; top: 30px; left: -50px; z-index: 100;}
 .G-content-block-title{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;padding-top: 15px; padding-left: 15px;}
 .G-content-block-tag{font-size: 12px; text-align: left; margin-left: 5px !important;}
 .G-content-block-price{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;}
