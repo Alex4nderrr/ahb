@@ -10,7 +10,7 @@
 .G-title-intro {color: #fff;}
 .G-title{margin-top: 50px; margin-bottom: 100px; text-align: left;}
 .G-title-text{text-align: justify; color: #fff; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; font-weight: bold; font-size: 20px;}
-.G-button{padding: 15px 50px 10px 50px; background: #fff; color: #000; font-weight: bold; display: inline-block; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; margin-top: 20px !important; cursor: pointer; font-size: 3vh; border: 0; transition: 0.5s;}
+.G-button{padding: 15px 50px 10px 50px; background: #fff; color: #000; font-weight: bold; display: inline-block; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; margin-top: 20px !important; cursor: pointer; font-size: 2vh; border: 0; transition: 0.5s;}
 .G-button:hover{background: #d4d4d4;}
 .G-content-title{font-weight: bold; display: inline-block; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; margin-top: 50px !important; font-size: 20px;margin-bottom: 25px !important;}
 .G-content-block{background: #fff; border-left: 15px solid #f1f1f1; border-right: 15px solid #f1f1f1; margin-bottom: 30px; padding: 25px;cursor: pointer;transition: 0.5s; position: relative;}
