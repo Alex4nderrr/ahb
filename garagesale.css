@@ -45,6 +45,7 @@ body::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
 @media screen and (max-width: 768px) {
     .G-title-h2 {color: #000;}
     .G-title-intro {color: #000;}
+    .G-button{width: 100%; text-align: center;}
 }
 
 #push-wrapper{background-color: #3b3b3b !important;}
