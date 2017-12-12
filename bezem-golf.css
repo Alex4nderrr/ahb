@@ -11,7 +11,7 @@
 .B-content-block{background: #fff; border-left: 15px solid #f1f1f1; border-right: 15px solid #f1f1f1; margin-bottom: 30px; padding: 25px;transition: 0.5s;}
 .B-content-block-title{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;padding-top: 15px; padding-left: 15px;}
 .B-content-block-tag{font-size: 12px; text-align: left; margin-left: 5px !important;}
-.B-content-block-price{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;}
+.B-content-block-price{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 2vh;font-weight: bold;}
 .B-content-block-button{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 2.5vh;font-weight: bold;color: #ff6633;cursor:pointer; padding: 10px;transition: 0.5s;}
 .B-disclaimer-title{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 30px;font-weight: bold;color: #999999;}
 .B-disclaimer-text{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;color: #999999;}
@@ -45,3 +45,5 @@ body::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
 .B-content::-webkit-scrollbar-track {background-color: #202020 !important;}
 .B-content::-webkit-scrollbar {width: 0px !important; background-color: #ffffff !important;}
 .B-content::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
+
+.content-1{cursor: pointer;}
