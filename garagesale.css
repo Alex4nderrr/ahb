@@ -50,7 +50,8 @@ body::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
     .G-title-intro {color: #000;}
     .G-button{width: 100%; text-align: center;}
     .G-background-2{display: none;}
-    .G-bottom-button{border: 0;}
+    .G-bottom-stock{border: 0;}
+    .G-bottom-location{border: 0;}
 }
 
 #push-wrapper{background-color: #3b3b3b !important;}
