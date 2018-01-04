@@ -1,1 +1,72 @@
+.q7-content{width: 100%; position: absolute; z-index: 20; background-color: #f1f1f1; height: 100%; top: -23px; left: 0; background-size: contain; padding-bottom: 100px; overflow-y: scroll;}
+.q7-content p{margin:0;}
+.q7-background{width: 100%;height: 400px;position: absolute;padding: 125px 15%;background-position-x: 100% !important;}
+.q7-background > h1 {color: #fff;font-size: 5vh;font-weight: bold;font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;margin: 0; text-shadow: 0 0 0.5rem #000;}
+.q7-background > h2 {color: #fff;font-size: 3vh;font-weight: bold;margin: 0;font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; text-shadow: 0 0 0.5rem #000;}
+.q7-background-button-1 {background: #0e69a8; color: #fff; font-size: 20px; border: 0; padding: 15px 30px; margin-top: 15px; font-weight: bold; box-shadow: 0 0 10px 0px black; transition: 0.5s;}
+.q7-background-button-2 {background: #fff; color: #000; font-size: 20px; border: 0; padding: 15px 30px; font-weight: bold; margin-top: 15px; margin-left: 15px; box-shadow: 0 0 10px 0px black; transition: 0.5s;}
+.q7-background-button-1:hover {background: #ffd00e; color: #000;}
+.q7-background-button-2:hover {background: #ffd00e; color: #000;}
 
+.q7-left{text-align: left !important;}
+.q7-center{text-align: center !important;}
+.q7-right{text-align: right !important;}
+
+.q7-block {width: 100%; margin-top: 50px; margin-bottom: 50px; background: #fff; padding: 0; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif; position: relative;}
+
+.q7-highlights{padding: 15px 0px; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif; font-size: 20px; line-height: 25px;}
+
+.q7-cta{background: #0e69a8; transition: 0.5s; cursor: pointer;}
+.q7-cta:hover{background: #ffd00e;}
+.q7-cta > a > img {width: 100%; padding: 20px 75px 0px 75px;}
+.q7-cta > p {padding: 10px; color: #fff; font-size: 16px; text-align: center;}
+.q7-cta-block {padding: 30px; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif;}
+
+.q7-plan-proefrit {background: #0e69a8; color: #ffffff; font-size: 20px; border: 0; padding: 15px 30px; margin-top: 15px; font-weight: bold; transition: 0.5s;}
+.q7-plan-proefrit:hover {background: #ffd00e; color: #000000;}
+.q7-send-form {background: #e69800; color: #ffffff; font-size: 20px; border: 0; padding: 15px 30px; margin-top: 15px; font-weight: bold; transition: 0.5s;}
+.q7-send-form:hover {background: #ffd00e; color: #000000;}
+
+.q7-topslider {width: 100%;}
+.q7-topslider > ul {list-style: none outside none;padding-left: 0;margin-bottom:0;}
+.q7-topslider > li {display: block;float: left;margin-right: 6px;cursor:pointer;}
+.q7-topslider > li > img {display: block;height: auto;max-width: 100%;}
+.q7-topslider-prev {position: absolute; left: -70px; background: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; transform: rotate(180deg); cursor: pointer; transition: 0.5s;}
+.q7-topslider-next {position: absolute; right: -70px; background: #fff; top: 45%; padding: 10px 15px; border-radius: 50%; font-size: 15px; cursor: pointer; transition: 0.5s;}
+.q7-topslider-title {font-size: 3vh; font-weight: bold; margin-bottom: 20px;}
+.q7-topslider-text {text-align: left;}
+
+.q7-bottomslider {width: 100%;}
+.q7-bottomslider > ul {list-style: none outside none;padding-left: 0;margin-bottom:0;}
+.q7-bottomslider > li {display: block;float: left;margin-right: 6px;cursor:pointer;}
+.q7-bottomslider > li > img {display: block;height: auto;max-width: 100%;}
+.q7-bottomslider-prev {position: absolute; left: -70px; background: #0e69a8; color: #fff; top: 35%; padding: 10px 15px; border-radius: 50%; font-size: 15px; transform: rotate(180deg); cursor: pointer; transition: 0.5s;}
+.q7-bottomslider-next {position: absolute; right: -70px; background: #0e69a8; color: #fff; top: 35%; padding: 10px 15px; border-radius: 50%; font-size: 15px; cursor: pointer; transition: 0.5s;}
+.q7-bottomslider-text {padding: 25px; font-size: 2vh; text-align: left; font-weight: normal;}
+
+.q7-footer-gradient {background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgba(197, 197, 197, 0.66) 50%,rgba(85, 103, 62, 0) 100%); position: absolute; bottom: -145px; height: 150px; width: 100%; z-index: 100;}
+
+body {overflow: scroll !important;}
+body::-webkit-scrollbar-track {background-color: #202020 !important;}
+body::-webkit-scrollbar {width: 0px !important; background-color: #ffffff !important;}
+body::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
+
+.q7-content::-webkit-scrollbar-track {background-color: #202020 !important;}
+.q7-content::-webkit-scrollbar {width: 0px !important; background-color: #ffffff !important;}
+.q7-content::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
+
+.lSPager {display: none !important;}
+a {color: inherit !important; text-decoration: none !important;}
+
+@media only screen and (max-width: 500px) {
+  .q7-content {overflow-x: hidden !important;}
+  .q7-background {background-position-x: 38% !important;}
+  .q7-background-button-1 {width: 100%;}
+  .q7-background-button-2 {width: 100%; margin-left: 0;}
+  .q7-cta > a > img {padding: 25px 50px;}
+  .q7-cta > p {font-size: 11px; margin-bottom: 30px;}
+  .q7-topslider-prev {background: #ffd00e;}
+  .q7-topslider-next {background: #ffd00e;}
+  .q7-bottomslider-prev {background: #ffd00e;}
+  .q7-bottomslider-next {background: #ffd00e;}
+}
