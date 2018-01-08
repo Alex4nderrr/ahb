@@ -32,6 +32,7 @@
 .welcome-header-white{display:inline-block;color:#fff;font-size:50px;text-shadow:0 0 10px #000;display:none}
 .welcome-header-text{color:#fff;padding:20px;text-shadow:3px 3px 10px #000;text-align:justify}
 .quotes-text{display:none;font-size:30px;color:#6f6e72;font-style:italic;padding:10px;color:#fff}
+.quotes-title{font-weight: bold; text-align: center; font-size: 2em;}
 .quotes-description{text-align:justify;padding:20px 0}
 .voordelen-description{color:#fff;text-align:justify;margin-top:30px}
 .voordelen-row{margin-bottom:10px;color:#fff;font-size:18px}
