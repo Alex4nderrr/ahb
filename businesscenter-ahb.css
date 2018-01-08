@@ -32,8 +32,8 @@
 .welcome-header-white{display:inline-block;color:#fff;font-size:50px;text-shadow:0 0 10px #000;display:none}
 .welcome-header-text{color:#fff;padding:20px;text-shadow:3px 3px 10px #000;text-align:justify}
 .quotes-text{display:none;font-size:30px;color:#6f6e72;font-style:italic;padding:10px;color:#fff}
-.quotes-title{font-weight: bold; text-align: center; font-size: 2em;}
-.quotes-description{text-align:justify;padding:20px 0}
+.quotes-title{font-weight: bold; text-align: center; font-size: 2em !important;}
+.quotes-description{text-align:left; padding:20px 0}
 .voordelen-description{color:#fff;text-align:justify;margin-top:30px}
 .voordelen-row{margin-bottom:10px;color:#fff;font-size:18px}
 .voordelen-row-left{display:inline-block;width:10%;text-align: left;}
@@ -58,8 +58,8 @@
 .team-info{padding-bottom:10px}
 .team-info-left{display:inline-block;width:10%}
 .team-info-right{display:inline-block;width:80%}
-.locatie-title{font-size: 50px !important;color: #6fc5a7;text-align: center;background: rgba(255, 255, 255, 0.75);padding-top: 10px;margin-top: 80px;}
-.locatie-button{margin-top: -10px;background: #fff;font-size: 20px !important;padding-bottom: 5px;color: #6fc5a7;text-align: center;padding-top: 10px;}
+.locatie-title{font-size: 4em !important; color: #5d5958; font-weight: bold; text-align: center; background: rgba(255, 255, 255, 0.75); padding-top: 10px; margin-top: 80px; width: fit-content; padding: 10px; margin-bottom: 0;}
+.locatie-button{background: #fff; font-size: 2em !important; padding-bottom: 5px; color: #5d5958; text-align: center; padding-top: 10px; width: fit-content; padding: 10px;}
 
 @media screen and (max-width: 600px) {
   .section-welcome {height: 150px;}
