@@ -1,8 +1,8 @@
 .q7-content{width: 100%; position: fixed; z-index: 60; background-color: #f1f1f1; height: 100%; top: 0; left: 0; background-size: contain; padding-bottom: 100px; overflow-y: scroll;}
 .q7-content p{margin:0;}
-.q7-background{width: 100%; height: 400px !important; position: absolute; padding: 125px 15%; background-size: cover !important; background-position-y: 100% !important; z-index: 100;}
-.q7-background > h1 {color: #fff;font-size: 5vh;font-weight: bold;font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;margin: 0; text-shadow: 0 0 0.5rem #000; text-align: right;}
-.q7-background > h2 {color: #fff;font-size: 3vh;font-weight: bold;margin: 0;font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; text-shadow: 0 0 0.5rem #000; text-align: right;}
+.q7-background{width: 100%; height: 400px !important; position: absolute; padding: 125px 15%; background-size: cover !important; background-position-y: 75% !important; z-index: 100;}
+.q7-background > h1 {color: #fff;font-size: 5vh;font-weight: bold;font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;margin: 0; text-shadow: 0 0 0.5rem #000; text-align: right; text-align: right; width: 550px; float: right;}
+.q7-background > h2 {color: #fff;font-size: 3vh;font-weight: bold;margin: 0;font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; text-shadow: 0 0 0.5rem #000; text-align: right; text-align: right; width: 550px; float: right;}
 .q7-background-button-1 {background: #bb0a30; color: #fff; font-size: 20px; border: 0; padding: 15px 30px; margin-top: 15px; font-weight: bold; box-shadow: 0 0 10px 0px black; transition: 0.5s; float: right;}
 .q7-background-button-2 {background: #fff; color: #000; font-size: 20px; border: 0; padding: 15px 30px; font-weight: bold; margin-top: 15px; margin-left: 15px; box-shadow: 0 0 10px 0px black; transition: 0.5s; float: right;}
 .q7-background-button-1:hover {background: #fff; color: #000;}
