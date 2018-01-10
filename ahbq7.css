@@ -16,9 +16,9 @@
 .q7-block-ajax {background: #fff; padding: 20px;}
 
 .q7-cta-block-l {background: #fff; padding: 25px;}
-.q7-cta-block0l > h2 {font-weight: bold; margin: 0 !important;}
+.q7-cta-block-l > h2 {font-weight: bold; margin: 0 !important;}
 .q7-cta-block-l > input {width: 100%; padding: 10px; border: solid #1a1a1a 3px;}
-.q7-cta-block-l-p {font-weight: bold; margin-top: 15px;}
+.q7-cta-block-l-p {font-weight: bold; margin-top: 15px !important;}
 .q7-cta-block-l > button {width: 50%; padding: 10px; border: solid #1a1a1a 3px; margin-top: 15px; background: #1a1a1a; color: #fff; float: right; font-weight: bold;}
 .q7-cta-block-r {background: #fff; padding: 25px;}
 .q7-cta-block-r > input {width: 100%; padding: 10px; border: solid #1a1a1a 3px; margin-top: 15px;}
