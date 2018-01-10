@@ -15,6 +15,11 @@
 .q7-block {width: 100%; background: #fff; padding: 0; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif; position: relative;}
 .q7-block-ajax {background: #fff; padding: 20px;}
 
+.q7-cta-block-l {background: #fff; padding: 25px;}
+.q7-cta-block-l > input {width: 100%; border: 0; padding: 10px;}
+.q7-cta-block-r {background: #fff; padding: 25px;}
+.q7-cta-block-r > input {width: 100%; border: 0; padding: 10px;}
+
 .q7-highlights{padding: 15px 0px; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif; font-size: 20px; line-height: 25px;}
 
 .q7-cta{background: #0e69a8; transition: 0.5s; cursor: pointer;}
