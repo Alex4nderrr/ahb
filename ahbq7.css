@@ -1,3 +1,5 @@
+.container {padding: 0; background: #fff;}
+
 .q7-content{width: 100%; position: fixed; z-index: 60; background-color: #1a1a1a; height: 100%; top: 0; left: 0; background-size: contain; padding-bottom: 100px; overflow-y: scroll;}
 .q7-content p{margin:0;}
 .q7-background{width: 100%; height: 400px !important; position: absolute; padding: 125px 15%; background-size: cover !important; background-position-y: 75% !important; z-index: 100;}
