@@ -70,7 +70,7 @@ body::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
 
 .lSPager {display: none !important;}
 a {color: inherit !important; text-decoration: none !important;}
-.stock-tile-item__link {border-radius: 0px !important;}
+.stock-tile-item__link {border-radius: 0px !important; border: 3px solid #fff !important;}
 
 @media only screen and (max-width: 500px) {
   .q7-content {overflow-x: hidden !important;}
