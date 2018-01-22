@@ -90,7 +90,7 @@ a {color: inherit !important; text-decoration: none !important;}
   .q7-header > h1 {color: #fff; font-size: 5vh; font-weight: bold; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; margin: 0; text-shadow: 0 0 0.5rem #000; text-align: right; width: 100%;}
   .q7-header > h2 {color: #fff; font-size: 3vh; font-weight: bold; margin: 0; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; text-shadow: 0 0 0.5rem #000; text-align: right; width: 100%;}
   .q7-cta-block-l > button {width: 100%;}
-  .q7-block {min-height: 250px;}
+  .q7-block {min-height: 250px !important;}
   .q7-bottom-stock {border-left: solid 15px #1a1a1a;}
   .q7-bottom-location {border-right: solid 15px #1a1a1a;}
   .q7-content {overflow-x: hidden !important;}
