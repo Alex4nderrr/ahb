@@ -1,4 +1,4 @@
-.container {padding: 0; background: #fff; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif !important;}
+.container {padding: 0 !important; background: #fff; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif !important;}
 
 .q7-content{width: 100%; position: fixed; z-index: 60; background-color: #1a1a1a; height: 100%; top: 0; left: 0; background-size: contain; padding-bottom: 100px; overflow-y: scroll;}
 .q7-content p{margin:0;}
@@ -11,6 +11,8 @@
 .q7-background-button-2:hover {background: #fff; color: #000;}
 
 .q7-header {max-width: 925px; background: transparent; text-align: right; color: #fff; text-shadow: 0 0 10px black;}
+.q7-header > h1 {color: #fff;font-size: 5vh;font-weight: bold;font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;margin: 0; text-shadow: 0 0 0.5rem #000; text-align: right; text-align: right; width: 550px; float: right;}
+.q7-header > h2 {color: #fff;font-size: 3vh;font-weight: bold;margin: 0;font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; text-shadow: 0 0 0.5rem #000; text-align: right; text-align: right; width: 550px; float: right;}
 
 .q7-left{text-align: left !important;}
 .q7-center{text-align: center !important;}
