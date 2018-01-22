@@ -1,4 +1,4 @@
-.container {padding: 0; background: #fff;}
+.container {padding: 0; background: #fff; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif !important;}
 
 .q7-content{width: 100%; position: fixed; z-index: 60; background-color: #1a1a1a; height: 100%; top: 0; left: 0; background-size: contain; padding-bottom: 100px; overflow-y: scroll;}
 .q7-content p{margin:0;}
@@ -22,7 +22,7 @@
 .q7-cta-block-l > input {width: 100%; padding: 10px; border: solid #1a1a1a 3px;}
 .q7-cta-block-l-p {font-weight: bold; margin-top: 15px !important;}
 .q7-cta-block-l > button {width: 50%; padding: 10px; border: solid #1a1a1a 3px; margin-top: 15px; background: #1a1a1a; color: #fff; float: right; font-weight: bold;}
-.q7-cta-block-r {background: #fff; padding: 25px;}
+.q7-cta-block-r {background: #fff; padding: 25px; transition: 1s;}
 .q7-cta-block-r > input {width: 100%; padding: 10px; border: solid #1a1a1a 3px; margin-top: 15px;}
 
 .q7-highlights{padding: 15px 0px; font-family: 'DIN Next W01 Regular', Arial, Helvetica, sans-serif; font-size: 20px; line-height: 25px;}
@@ -56,7 +56,7 @@
 .q7-bottomslider-text {padding: 25px; font-size: 2vh; text-align: left; font-weight: normal;}
 
 .q7-streetview {background-size: cover; background-position: 50%;}
-.q7-video {padding: 30px 20px 10px 0px; font-size: 16px; text-align: justify; transition: 1s;}
+.q7-video {padding: 30px 0px 50px 0px; font-size: 16px; text-align: justify; transition: 1s;}
 .q7-handtekening {transition: 1s; float: right; margin: -30px 15px -30px -30px; max-width: 200px !important;}
 .q7-footer-gradient {background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgba(197, 197, 197, 0.66) 50%,rgba(85, 103, 62, 0) 100%); position: absolute; bottom: -145px; height: 150px; width: 100%; z-index: 100;}
 
