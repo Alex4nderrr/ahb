@@ -56,7 +56,8 @@
 .q7-bottomslider-text {padding: 25px; font-size: 2vh; text-align: left; font-weight: normal;}
 
 .q7-streetview {background-size: cover; background-position: 50%;}
-
+.q7-video {padding: 30px 20px 10px 0px; font-size: 16px; text-align: justify; transition: 1s;}
+.q7-handtekening {transition: 1s; float: right; margin: -30px 15px -30px -30px; max-width: 200px !important;}
 .q7-footer-gradient {background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgba(197, 197, 197, 0.66) 50%,rgba(85, 103, 62, 0) 100%); position: absolute; bottom: -145px; height: 150px; width: 100%; z-index: 100;}
 
 body {overflow: scroll !important;}
