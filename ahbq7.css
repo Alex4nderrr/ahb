@@ -10,6 +10,8 @@
 .q7-background-button-1:hover {background: #fff; color: #000;}
 .q7-background-button-2:hover {background: #fff; color: #000;}
 
+.q7-header {max-width: 925px; background: transparent; text-align: right; color: #fff; text-shadow: 0 0 10px black;}
+
 .q7-left{text-align: left !important;}
 .q7-center{text-align: center !important;}
 .q7-right{text-align: right !important;}
